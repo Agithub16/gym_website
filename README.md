@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Agithub16
+- 👀 I’m interested in devlopment
+- 🌱 I’m currently learning frontend
+- 😄 i wamt to work with someone
+- who know devlopment. 
